@@ -1,0 +1,90 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+
+.image img {
+  object-fit: cover;
+  object-position: right;
+  width: 100%;
+  height: 100%;
+}
+
+
+
+.summer{
+    color: #ea8626;
+    text-shadow: 2px 1px 4px black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    text-align: center;
+    font-size: 50px;
+}
+
+.escapade{
+     color:#06cecd;
+     text-shadow: 2px 1px 4px black;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     font-weight: 600;
+     text-align: center;
+     font-size: 50px;
+}
+
+
+  
+  .content-left {
+background-color: #bbdced;
+color:#ffff;
+text-shadow: 2px 3px 5px black;
+text-align: center;
+font-size: 100px;
+margin-top: 200px;
+padding:20px;
+font-weight: bold;
+width: 97%;
+height: 130px;
+  }
+
+  .content-right{
+    text-shadow: 10px 5px 8px #d2b88f;
+
+
+  }
+
+  .pan2{
+    background-color: #efff5e;
+    width: 830px;
+    height: 400px;
+    margin-top: 20px;
+    box-shadow: 10px 10px 8px #efeeee;
+    margin-left:  250px;
+    border-radius: 20px;
+
+  }
+
+  .pan2 h2{
+     margin-top: 10px;
+     text-align: center;
+     font-size:40px;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     font-weight: 900px;
+     color: #ea8727;
+
+
+  }
+  .pan2 p{
+    background-color: white;
+    text-align: center;
+    font-size: 15px;
+    color:red;
+    font-weight: 200;
+    height: 200px;
+    text-shadow: 1px 0px 0px black;
+    padding-top: 50px;
+  }
+
+
+
+
+
